@@ -9,7 +9,7 @@
 
 * 🔭 I’m currently working on an open source toolkit for evolvable hardware
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=manthelt&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=manthelt&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthelt&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
